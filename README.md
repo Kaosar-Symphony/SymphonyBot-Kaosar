@@ -1,4 +1,4 @@
-# Symphony-Ares
+# SymphonyBot-Kaosar
 A multi-function bot for use with the Symphony communications platform
 
 Ares is an example of a multi-function command and chat bot for the Symphony communications platform. It was written using Python 3.5. The original intention of the bot was proof-of-concept for utilizing Symphony's Agent APIs. It has since evolved to include functionality used in the Business Operations team, as well as some added functionality for other teams. 

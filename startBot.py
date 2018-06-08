@@ -12,7 +12,8 @@ loopCount = 0
 def Main():
     global loopCount
 
-    botlog.LogSymphonyInfo('Starting Ares session...')
+    botlog.LogSymphonyInfo('Starting Bot session...')
+    t
     botSession = botbuilder.SymSession()
 
     # Bot Loop Begins here

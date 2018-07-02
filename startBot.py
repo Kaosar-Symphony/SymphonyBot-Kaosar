@@ -13,7 +13,7 @@ def Main():
     global loopCount
 
     botlog.LogSymphonyInfo('Starting Bot session...')
-    t
+
     botSession = botbuilder.SymSession()
 
     # Bot Loop Begins here
